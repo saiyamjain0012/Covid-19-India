@@ -5,17 +5,16 @@
 
 
 This web app is developed using **VueJS and few of the online available APIs**. With this app you can- 
-1. See the **growth trends** since the first lockdown was imposed.
-2. Analyse the past **14 day cycle** of coronaravirus in India.
-3. Search for **state-wise statistics**.
-4. Get the **latest news** updates
-5.View the **zone wise distribution of states and districts**
-6. Get information about a few **donation funds available** to help those in need.
+* See the **growth trends** since the first lockdown was imposed.
+* Analyse the past **14 day cycle** of coronaravirus in India.
+* Search for **state-wise statistics**.
+* Get the **latest news** updates
+* View the **zone wise distribution of states and districts**
+* Get information about a few **donation funds available** to help those in need.
 
 ### Here is how the tracker looks ###
-![GitHub Logo](/sample/dashboard1.png)
-![GitHub Logo](/sample/dashboard2.png)
-![GitHub Logo](/sample/dashboard3.png)
+
+![Index Page](sample/dashboard1.PNG)
 
 
 
