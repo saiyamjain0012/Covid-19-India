@@ -1,6 +1,6 @@
 # Covid-19-Tracking APP 
 # You can check it out on #
-## http://databoard.in/#/admin/dashboard ##
+## http://databoard.in ##
 ### This is a web app deveoped to provide latest statistics and information about Covid-19 in India. 
 
 
@@ -41,7 +41,7 @@ APIs used in the project are-
 
 I'll keep on adding **features and modules** to this tracker to make it more informative and useful. 
 
-For any query or suggestion, please feel free to mail them at saiyamjain0012@gmail.com. Do check out http://databoard.in/#/admin/dashboard and please star this repository if you like it. 
+For any query or suggestion, please feel free to mail them at saiyamjain0012@gmail.com. Do check out http://databoard.in and please star this repository if you like it. 
 
 
 
